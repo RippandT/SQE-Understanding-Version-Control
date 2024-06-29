@@ -1,0 +1,10 @@
+git -c diff.mnemonicprefix=false -c core.quotepath=false --no-optional-locks push -v --tags origin main:main
+POST git-receive-pack (485 bytes)
+Pushing to https://github.com/RippandT/SQE-Understanding-Version-Control
+To https://github.com/RippandT/SQE-Understanding-Version-Control
+   14522d8..98d59a9  main -> main
+updating local tracking ref 'refs/remotes/origin/main'
+
+
+
+Completed successfully.
